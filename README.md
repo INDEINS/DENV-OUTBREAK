@@ -10,7 +10,7 @@ Is important detect, study, report and share the genomic information for **publi
 
 ## Scope
 **INDE lab from INS detected a lack knowledge realed to lineage reports** for dengue virus. In sense, 
-this github **has been created to permit difussing, discuss and propossed more strengh genomic surveillance of dengue** with the scientific community. Because 
+this github **has been created to permit difussing, discuss and propossed more strengh genomic surveillance of dengue** with the scientific community.
 
 
 ## Report of emerged mutations 2023 outbreak Peru 
