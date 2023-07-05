@@ -26,6 +26,23 @@ this github **has been created to permit difussing, discuss and propossed more s
 |DENV-3|III|1|C: I94T|Lima|
 ||||NS5: M614I||
 
+Serotype	Genotype	Sub-lineage	Mutations	Regions
+DENV-1	V	1	NS1: M178I	More than 15 regions of Peru
+		2	E: S338L*                  NS4A: S99G	Tumbes, Piura, Amazonas
+				
+		3	NS1: T131A, N293S NS2A: K218R*             NS3: Y349H, I520V   NS4A: A93T                          NS5: R367Q	Lima, Junín, Cusco, Ancash, Ayacucho, Madre de Dios, Loreto, Piura.
+				
+				
+				
+				
+DENV-2	Cosmopolitan	1	NS5: T176I, H247Y	More than 15 regions of Peru
+DENV-3	III	1	C: I94T                         NS5: M614I	Lima
+				
+![image](https://github.com/INDEINS/DENV_OUTBREAK/assets/12600107/2aa42b8b-251e-456c-a621-3b383ca6aa00)
+
+
+
+
 ### Contributors
 
 <details><summary> about us </summary>
