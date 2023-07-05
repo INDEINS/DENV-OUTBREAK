@@ -12,11 +12,17 @@ this github **has been created to permit difussing, discuss and propossed more s
 
 ## Contributors
 
-
-
+<details><summary> about us </summary>
+<p>
+  
 - Orson Mestanza 🆔 [Orcid](https://orcid.org/0000-0001-7268-0496) :octocat: [git](https://github.com/OrsonMM)
+  
 - Victor Jimenez 🆔 [Orcid](https://orcid.org/0000-0001-6547-6999) :octocat: [git](https://github.com/Vjimenez-vasquez)
+  
 - add more
+  
+</p>
+</details>
 
 
 
@@ -30,4 +36,6 @@ this github **has been created to permit difussing, discuss and propossed more s
 
 
 
-                                                   'This page was upload to 05 July 2023'
+
+
+                                                   'This page was update to 05 July 2023'
