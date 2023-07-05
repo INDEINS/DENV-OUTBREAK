@@ -7,7 +7,7 @@ A recent outbreak of Dengue has been emerged since probably since dicember of 20
 Is important detect, study, report and share the genomic information for **public health decission**    
 
 ## Scope
-This github has been created to permit difussing, discuss and propossed more strengh genomic surveillance of dengue with the scientific community. Because **INDE lab from INS detected a lack knowledge realed to lineage reports** for virus   
+This github **has been created to permit difussing, discuss and propossed more strengh genomic surveillance of dengue** with the scientific community. Because **INDE lab from INS detected a lack knowledge realed to lineage reports** for virus   
 
 
 ## 
