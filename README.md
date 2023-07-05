@@ -12,6 +12,8 @@ this github **has been created to permit difussing, discuss and propossed more s
 
 ## Contributors
 
+
+
 - Orson Mestanza 🆔 [Orcid](https://orcid.org/0000-0001-7268-0496) :octocat: [git](https://github.com/OrsonMM)
 - Victor Jimenez 🆔 [Orcid](https://orcid.org/0000-0001-6547-6999) :octocat: [git](https://github.com/Vjimenez-vasquez)
 - add more
