@@ -1,17 +1,15 @@
 # DENV_OUTBREAK   
 **Genomic surveillance for Dengue peruvian outbreaks**
 
-
 ## Introduction  
 **Genomic epidemiology** help to undestand the populations dinamics changes that occur in pathogens related to new outbreaks of **dengue virus**. 
-A recent outbreak of Dengue has been emerged since probably since dicember of 2012 to actually in **peruvian population**. 
-Is important detect, study, report and share the genomic information for **public health decission**    
 
+The recent Dengue outbreak in the summer of 2023 most likely began around December 2022, and the causal lineages may have been circulating in the **Peruvian population** for some years.
+For public health decisions, it is critical to identify, investigate, disclose, and share genetic information.
 
 ## Scope
-**INDE lab from INS detected a lack knowledge realed to lineage reports** for dengue virus. In sense, 
+**INDE lab from INS detected a lack knowledge related to lineage reports** for dengue virus. In sense, 
 this github **has been created to permit difussing, discuss and propossed more strengh genomic surveillance of dengue** with the scientific community.
-
 
 ## Report of emerged mutations 2023 outbreak Peru 
 
