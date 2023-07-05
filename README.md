@@ -27,15 +27,15 @@ this github **has been created to permit difussing, discuss and propossed more s
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow" rowspan="3">DENV1</td>
-    <td class="tg-c3ow" rowspan="3">V</td>
+    <td class="tg-0lax" rowspan="3">DENV1</td>
+    <td class="tg-0lax" rowspan="3">V</td>
     <td class="tg-0pky">1</td>
     <td class="tg-0pky">NS1: M178I</td>
     <td class="tg-0pky">More than 15 regions of Peru</td>
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
-    <td class="tg-hx86">E: S338L*<br>NS4A:S99G</td>
+    <td class="tg-0lax">E: S338L*<br>NS4A:S99G</td>
     <td class="tg-0lax">Tumbes, Piura, Amazonas</td>
   </tr>
   <tr>
