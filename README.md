@@ -12,33 +12,50 @@ this github **has been created to permit difussing, discuss and propossed more s
 
 ## Report of emerged mutations 2023 outbreak Peru 
 
-|  Serotype  |  Genotype  |  Sub-lineage  |  Mutations|  Regions  |
-|----|----|----|----|----|
-|DENV-1|V|1|NS1: M178I|More than 15 regions of Peru|
-| | |2|E: S338L*|Tumbes, Piura, Amazonas|
-| | ||NS4A: S99G||
-|||3|NS1: T131A, N293S|Lima, Junín, Cusco, Ancash, Ayacucho, Madre de Dios, Loreto, Piura|
-||||NS2A: K218R*||
-||||NS3: Y349H, I520V||
-||||NS4A: A93T||
-||||NS5: R367Q||
-|DENV-2|Cosmopolitan|1|NS5: T176I, H247Y|More than 15 regions of Peru|
-|DENV-3|III|1|C: I94T|Lima|
-||||NS5: M614I||
-
-Serotype	Genotype	Sub-lineage	Mutations	Regions
-DENV-1	V	1	NS1: M178I	More than 15 regions of Peru
-		2	E: S338L*                  NS4A: S99G	Tumbes, Piura, Amazonas
-				
-		3	NS1: T131A, N293S NS2A: K218R*             NS3: Y349H, I520V   NS4A: A93T                          NS5: R367Q	Lima, Junín, Cusco, Ancash, Ayacucho, Madre de Dios, Loreto, Piura.
-				
-				
-				
-				
-DENV-2	Cosmopolitan	1	NS5: T176I, H247Y	More than 15 regions of Peru
-DENV-3	III	1	C: I94T                         NS5: M614I	Lima
-				
-![image](https://github.com/INDEINS/DENV_OUTBREAK/assets/12600107/2aa42b8b-251e-456c-a621-3b383ca6aa00)
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr">Serotype</th>
+    <th class="tg-fymr">Genotype</th>
+    <th class="tg-fymr">Clade</th>
+    <th class="tg-fymr">Mutations</th>
+    <th class="tg-fymr">Regions</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow" rowspan="3">DENV1</td>
+    <td class="tg-c3ow" rowspan="3">V</td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">NS1: M178I</td>
+    <td class="tg-0pky">More than 15 regions of Peru</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2</td>
+    <td class="tg-hx86">E: S338L*<br>NS4A:S99G</td>
+    <td class="tg-0lax">Tumbes, Piura, Amazonas</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3</td>
+    <td class="tg-0lax">NS1: T131A, N293S <br> NS2A: K218R* <br> NS3: Y349H, I520V <br> NS4A: A93T <br> NS5: R367Q </td>
+    <td class="tg-0lax">Lima, Junín, Cusco, Ancash, Ayacucho, Madre de Dios, Loreto, Piura.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
 
 
 
