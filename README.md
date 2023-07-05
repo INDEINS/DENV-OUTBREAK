@@ -8,7 +8,7 @@ The recent Dengue outbreak in the summer of 2023 most likely began around Decemb
 For public health decisions, it is critical to identify, investigate, disclose, and share genetic information.
 
 ## Scope
-**INDE lab from INS detected a lack knowledge related to lineage reports** for dengue virus. In sense, 
+**INDE lab from INS (Instituto Nacional de Salud) detected a lack knowledge related to lineage reports** for dengue virus. In sense, 
 this github **has been created to permit difussing, discuss and propossed more strengh genomic surveillance of dengue** with the scientific community.
 
 ## Report of emerged mutations 2023 outbreak Peru 
