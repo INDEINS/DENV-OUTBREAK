@@ -10,6 +10,22 @@ Is important detect, study, report and share the genomic information for **publi
 **INDE lab from INS detected a lack knowledge realed to lineage reports** for dengue virus. In sense, 
 this github **has been created to permit difussing, discuss and propossed more strengh genomic surveillance of dengue** with the scientific community. Because 
 
+## Report of emerged mutations 2023 outbreak Peru 
+
+|Serotype|Genotype|Sub-lineage|Mutations|Regions|
+|----|----|----|----|----|
+|DENV-1|V|1|NS1: M178I|More than 15 regions of Peru|
+|||2|E: S338L*|Tumbes, Piura, Amazonas|
+||||NS4A: S99G||
+|||3|NS1: T131A, N293S|Lima, Junín, Cusco, Ancash, Ayacucho, Madre de Dios, Loreto, Piura|
+||||NS2A: K218R*||
+||||NS3: Y349H, I520V||
+||||NS4A: A93T||
+||||NS5: R367Q||
+|DENV-2|Cosmopolitan|1|NS5: T176I, H247Y|More than 15 regions of Peru|
+|DENV-3|III|1|C: I94T|Lima|
+||||NS5: M614I||
+
 ### Contributors
 
 <details><summary> about us </summary>
