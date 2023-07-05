@@ -41,18 +41,18 @@ this github **has been created to permit difussing, discuss and propossed more s
     <td class="tg-0lax">Lima, Junín, Cusco, Ancash, Ayacucho, Madre de Dios, Loreto, Piura.</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">DENV-2</td>
+    <td class="tg-0pky">Cosmopolitan</td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">NS5: T176I, H247Y</td>
+    <td class="tg-0pky">More than 15 regions of Peru</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">DENV-3</td>
+    <td class="tg-0pky">III</td>
+    <td class="tg-0pky">1</td>
+    <td class="tg-0pky">C: I94T <br> NS5: M614I </td>
+    <td class="tg-0pky">Lima</td>
   </tr>
 </tbody>
 </table>
