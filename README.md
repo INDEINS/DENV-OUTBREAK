@@ -12,11 +12,11 @@ this github **has been created to permit difussing, discuss and propossed more s
 
 ## Report of emerged mutations 2023 outbreak Peru 
 
-|Serotype|Genotype|Sub-lineage|Mutations|Regions|
+|  Serotype  |  Genotype  |  Sub-lineage  |  Mutations|  Regions  |
 |----|----|----|----|----|
 |DENV-1|V|1|NS1: M178I|More than 15 regions of Peru|
-|||2|E: S338L*|Tumbes, Piura, Amazonas|
-||||NS4A: S99G||
+| | |2|E: S338L*|Tumbes, Piura, Amazonas|
+| | ||NS4A: S99G||
 |||3|NS1: T131A, N293S|Lima, Junín, Cusco, Ancash, Ayacucho, Madre de Dios, Loreto, Piura|
 ||||NS2A: K218R*||
 ||||NS3: Y349H, I520V||
