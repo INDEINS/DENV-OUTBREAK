@@ -13,6 +13,13 @@ this github **has been created to permit difussing, discuss and propossed more s
 
 ## Report of emerged mutations 2023 outbreak Peru 
 
+The genomes of references uses for each Serotype was download of NCBI database: 
+- [X] DENV_1 :link: [Genome NC_001477.1](https://www.ncbi.nlm.nih.gov/nuccore/9626685) 
+- [X] DENV_2 :link: [Genome NC_001474.2](https://www.ncbi.nlm.nih.gov/nuccore/158976983)
+- [X] DENV_3 :link: [Genome NC_NC_001475.2](https://www.ncbi.nlm.nih.gov/nuccore/163644368)
+- [X] DENV_4 :link: [Genome NC_002640.1](https://www.ncbi.nlm.nih.gov/nuccore/12084822)
+
+
 <table class="tg">
 <thead>
   <tr>
