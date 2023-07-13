@@ -1,17 +1,16 @@
 # DENV-OUTBREAK   
-**Genomic surveillance for Dengue peruvian outbreaks**
+**Genomic surveillance of Dengue outbreaks in Peru**
 
 ## Introduction  
-**Genomic epidemiology** help to undestand the populations dinamics changes that occur in pathogens related to new outbreaks of **dengue virus**. 
+**Genomic epidemiology** help to understand the populations dinamics changes that occur in pathogens related to new outbreaks of **dengue virus**. 
 
 The recent Dengue outbreak in the summer of 2023 most likely began around December 2022, and the causal lineages may have been circulating in the **Peruvian population** for some years.
 For public health decisions, it is critical to identify, investigate, disclose, and share genetic information.
 
 ## Scope
-**INDE lab from INS (Instituto Nacional de Salud) detected a lack knowledge related to lineage reports** for dengue virus. In sense, 
-this github **has been created to permit difussing, discuss and propossed more strengh genomic surveillance of dengue** with the scientific community.
+**INDE lab from INS (Instituto Nacional de Salud) detected a lack of information and reports related to dengue virus lineages. This github repository **has been created to permit difussing, discuss and propossed more strengh genomic surveillance of dengue** with the scientific community. It contains annoated trees (nextstrain) focused on genomes sequenced in Peru in an international context at the province level. It allows the user to check for local and foreign genetic connections.
 
-## Nextstrain (Phylogeographics Reconstruction)
+## Nextstrain (Phylogeographic Reconstructions)
 
 ***Dengue 1 surveillance 2023***   :link:[View interactive Phylogenetics](https://nextstrain.org/community/PHYLODENV/DENV-PHYLO/denv.1) 
 ![den_1](https://github.com/INDEINS/DENV-OUTBREAK/assets/138617344/b53609f6-1171-4690-a9dd-af7f4c0b343a)
