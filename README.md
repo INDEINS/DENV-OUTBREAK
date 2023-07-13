@@ -90,7 +90,9 @@ The genomes of references used for each Serotype was download of NCBI database:
   
 - Victor Jimenez 🆔 [Orcid](https://orcid.org/0000-0001-6547-6999) :octocat: [git](https://github.com/Vjimenez-vasquez)
   
-- add more
+- Carlos Padilla 🆔 [Orcid](https://orcid.org/0000-0002-0562-0431) :octocat: [git]()
+
+- Veronica Hurtado 🆔 [Orcid](https://orcid.org/0000-0003-3667-6806) :octocat: [git](https://github.com/vekahurtado)
   
 </p>
 </details>
