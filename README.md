@@ -25,7 +25,7 @@ For public health decisions, it is critical to identify, investigate, disclose, 
 
 ## Report of emerged mutations 2023 outbreak Peru 
 
-The genomes of references used for each Serotype was download of NCBI database: 
+Our results based on the available NCBI data suggest that the current outbreak was shaped by three distinct sister DENV-2 clades, three distinct sister DENV-1 clades, and one DENV-3 clade, with specific genome mutations in all  cases. The genomes of references used for each Serotype was download of NCBI database: 
 - [X] DENV_1 :link: [Genome NC_001477.1](https://www.ncbi.nlm.nih.gov/nuccore/9626685) 
 - [X] DENV_2 :link: [Genome NC_001474.2](https://www.ncbi.nlm.nih.gov/nuccore/158976983)
 - [X] DENV_3 :link: [Genome NC_001475.2](https://www.ncbi.nlm.nih.gov/nuccore/163644368)
