@@ -8,7 +8,7 @@ The recent Dengue outbreak in the summer of 2023 most likely began around Decemb
 For public health decisions, it is critical to identify, investigate, disclose, and share genetic information.
 
 ## Scope
-**INDE lab from INS (Instituto Nacional de Salud)** detected a lack of information and reports related to dengue virus lineages. This github repository **has been created to promote, share information, discuss and propossed more strengh genomic surveillance of dengue** with the scientific community. It contains annoated trees (nextstrain) focused on genomes sequenced in Peru in an international context at the province level. It allows the user to check for local and foreign genetic connections.
+**INDE lab from INS (Instituto Nacional de Salud)** discovered a scarcity of knowledge and reports on dengue viral lineages. This github repository was created to promote, share knowledge, discuss, and propose stronger genomic surveillance of dengue with the scientific community. It includes annotated trees (nextstrain) focused on genomes sequenced in Peru in a worldwide context at the province level. It allows the user to search for local and foreign genetic links.
 
 ## Nextstrain (Phylogeographic Reconstructions)
 
