@@ -1,4 +1,4 @@
-# DENV_OUTBREAK   
+# DENV-OUTBREAK   
 **Genomic surveillance for Dengue peruvian outbreaks**
 
 ## Introduction  
