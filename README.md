@@ -11,6 +11,19 @@ For public health decisions, it is critical to identify, investigate, disclose, 
 **INDE lab from INS (Instituto Nacional de Salud) detected a lack knowledge related to lineage reports** for dengue virus. In sense, 
 this github **has been created to permit difussing, discuss and propossed more strengh genomic surveillance of dengue** with the scientific community.
 
+## Nextstrain (Reconstruction Phylogeographics)
+
+***Dengue 1 surveillance 2023 ***   :link:[View interactive Phylogenetics](https://nextstrain.org/community/PHYLODENV/DENV-PHYLO/denv.1) 
+![den_1](https://github.com/INDEINS/DENV-OUTBREAK/assets/138617344/b53609f6-1171-4690-a9dd-af7f4c0b343a)
+
+***Dengue 2 surveillance 2023 ***   :link:[View interactive Phylogenetics](https://nextstrain.org/community/PHYLODENV/DENV-PHYLO/denv.2) 
+![den_2](https://github.com/INDEINS/DENV-OUTBREAK/assets/138617344/736c442a-836f-4135-baef-843831cf0510)
+
+***Dengue 3 surveillance 2023 ***   :link:[View interactive Phylogenetics](https://nextstrain.org/community/PHYLODENV/DENV-PHYLO/denv.3) 
+![den_3](https://github.com/INDEINS/DENV-OUTBREAK/assets/138617344/ed1c13d5-ae9e-41ad-9eea-ac375d8b645e)
+
+
+
 ## Report of emerged mutations 2023 outbreak Peru 
 
 The genomes of references used for each Serotype was download of NCBI database: 
