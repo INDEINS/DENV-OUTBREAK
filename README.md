@@ -13,13 +13,13 @@ this github **has been created to permit difussing, discuss and propossed more s
 
 ## Nextstrain (Reconstruction Phylogeographics)
 
-***Dengue 1 surveillance 2023 ***   :link:[View interactive Phylogenetics](https://nextstrain.org/community/PHYLODENV/DENV-PHYLO/denv.1) 
+***Dengue 1 surveillance 2023***   :link:[View interactive Phylogenetics](https://nextstrain.org/community/PHYLODENV/DENV-PHYLO/denv.1) 
 ![den_1](https://github.com/INDEINS/DENV-OUTBREAK/assets/138617344/b53609f6-1171-4690-a9dd-af7f4c0b343a)
 
-***Dengue 2 surveillance 2023 ***   :link:[View interactive Phylogenetics](https://nextstrain.org/community/PHYLODENV/DENV-PHYLO/denv.2) 
+***Dengue 2 surveillance 2023***   :link:[View interactive Phylogenetics](https://nextstrain.org/community/PHYLODENV/DENV-PHYLO/denv.2) 
 ![den_2](https://github.com/INDEINS/DENV-OUTBREAK/assets/138617344/736c442a-836f-4135-baef-843831cf0510)
 
-***Dengue 3 surveillance 2023 ***   :link:[View interactive Phylogenetics](https://nextstrain.org/community/PHYLODENV/DENV-PHYLO/denv.3) 
+***Dengue 3 surveillance 2023***   :link:[View interactive Phylogenetics](https://nextstrain.org/community/PHYLODENV/DENV-PHYLO/denv.3) 
 ![den_3](https://github.com/INDEINS/DENV-OUTBREAK/assets/138617344/ed1c13d5-ae9e-41ad-9eea-ac375d8b645e)
 
 
