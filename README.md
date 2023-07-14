@@ -30,6 +30,7 @@ Our results based on the available NCBI data suggest that the current outbreak w
 - [X] DENV_3 :link: [Genome NC_001475.2](https://www.ncbi.nlm.nih.gov/nuccore/163644368)
 - [X] DENV_4 :link: [Genome NC_002640.1](https://www.ncbi.nlm.nih.gov/nuccore/12084822)
 
+***Table 1. Mutations detected for 2023 outbreak***
 
 <table class="tg">
 <thead>
@@ -43,7 +44,7 @@ Our results based on the available NCBI data suggest that the current outbreak w
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax" rowspan="3">DENV1</td>
+    <td class="tg-0lax" rowspan="3">DENV-1</td>
     <td class="tg-0lax" rowspan="3">V</td>
     <td class="tg-0pky">1</td>
     <td class="tg-0pky">NS1: M178I</td>
