@@ -4,8 +4,9 @@
 ## Introduction  
 **Genomic epidemiology** help to understand the populations dinamics changes that occur in pathogens related to new outbreaks of **dengue virus**. 
 
-The recent Dengue outbreak in the summer of 2023 most likely began around December 2022, and the causal lineages may have been circulating in the **Peruvian population** for some years.
-For public health decisions, it is critical to identify, investigate, disclose, and share genetic information.
+Genomic epidemiology aids in understanding the population dynamics changes that occur in pathogens in response to new **dengue virus outbreaks**.
+
+The recent Dengue outbreak in the summer of 2023 most likely started around December 2022, and the causal lineages may have been circulating in the Peruvian population for years. It is vital for public health decisions to identify, study, disclose, and communicate genetic information.
 
 ## Scope
 **INDE lab from INS (Instituto Nacional de Salud)** discovered a scarcity of knowledge and reports on dengue viral lineages. This github repository was created to promote, share knowledge, discuss, and propose stronger genomic surveillance of dengue with the scientific community. It includes annotated trees (nextstrain) focused on genomes sequenced in Peru in a worldwide context at the province level. It allows the user to search for local and foreign genetic links.
