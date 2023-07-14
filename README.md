@@ -1,10 +1,8 @@
 # DENV-OUTBREAK   
 **Genomic surveillance of Dengue outbreaks in Peru**
 
-## Introduction  
-**Genomic epidemiology** help to understand the populations dinamics changes that occur in pathogens related to new outbreaks of **dengue virus**. 
-
-Genomic epidemiology aids in understanding the population dynamics changes that occur in pathogens in response to new **dengue virus outbreaks**.
+## Introduction
+**Genomic epidemiology** aids in understanding the population dynamics changes that occur in pathogens in response to new **dengue virus outbreaks**.
 
 The recent Dengue outbreak in the summer of 2023 most likely started around December 2022, and the causal lineages may have been circulating in the Peruvian population for years. It is vital for public health decisions to identify, study, disclose, and communicate genetic information.
 
